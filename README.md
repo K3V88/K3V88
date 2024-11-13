@@ -1,4 +1,4 @@
-👋 Hi, I’m @K3V88, a full-stack developer with a passion for bridging languages and technology.<br>
+👋 Hi, I’m Kevin, a full-stack developer with a passion for bridging languages and technology.<br>
 🌍 Fluent in Dutch, German, and English, I started my journey as a translator, helping people connect across cultures. But over time, my curiosity led me to coding, where I discovered a new kind of language: programming.<br>
 💻 Today, I’m a full-stack developer with experience in both frontend and backend technologies, always eager to build intuitive and impactful applications.<br>
 🌱 Currently, I’m expanding my skills, learning the latest tools and techniques to craft efficient, user-friendly applications.<br>
